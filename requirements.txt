@@ -1,5 +1,0 @@
-sklearn
-Flask
-numpy
-pandas
-pickle
