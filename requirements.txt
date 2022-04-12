@@ -1,0 +1,7 @@
+sklearn
+Flask
+render_template
+request
+numpy
+pandas
+pickle
